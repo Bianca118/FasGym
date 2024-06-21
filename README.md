@@ -59,14 +59,14 @@ composer install
 
 - Configurarea fișierului .env 
  
-    Se recomandă clonarea fișierului \```.env\``  și folosirea unui .env.local. În acest fișier va fi nevoie să configurați informațiile necesare pentru conectarea la baza de date. Va fi necesar setarea numelui bazei de date, a portului, numele de host.
+    Se recomandă clonarea fișierului \``` .env \``  și folosirea unui .env.local. În acest fișier va fi nevoie să configurați informațiile necesare pentru conectarea la baza de date. Va fi necesar setarea numelui bazei de date, a portului, numele de host.
 
 
 - rularea migrărilor pentru a crea tabelele în baza de date specificată în \```.env.local\`` 
 
 - pornirea aplicației rulând \```php artisan serve\`` 
 
-- accesare aplicație la adresa  \```http://localhost:8000\``, unde \```localhost\`` va fi definit ca nume de host în \```.env.local\`` , iar \```8000\`` reprezentând numărul portului 
+- accesare aplicație la adresa  \```http://localhost:8000\``, unde \``` localhost \`` va fi definit ca nume de host în \```.env.local\`` , iar \```8000\`` reprezentând numărul portului 
 
 
 
