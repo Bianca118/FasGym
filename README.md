@@ -92,7 +92,7 @@ npm install
 ```sh
  npm run start
  ```
-- Accesare frontend la adresa \``http://localhost:3000\``
+- Accesare frontend la adresa \```http://localhost:3000\``
 
 <h3>
 <font color="#f5f5dc"> 3. Caracteristici cheie</font>
