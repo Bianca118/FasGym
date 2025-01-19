@@ -26,7 +26,7 @@ Proiectul în cauză este dedicat clienților sălii de fitness și a fost iniț
 </h3>
 
 
-   Pentru a interpreta codul de PHP va fi nevoie de un server web, cum ar fi \```WAMP\``, \```Apache\``
+   Pentru a interpreta codul de PHP va fi nevoie de un server web, cum ar fi \```Apache\``
 
 Va fi necesar un mediu de dezvoltare precum PhpStorm, VisualStudioCode
 
